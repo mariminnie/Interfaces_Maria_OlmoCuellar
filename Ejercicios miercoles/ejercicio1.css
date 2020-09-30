@@ -1,0 +1,41 @@
+table{
+    border: rgb(8, 8, 8) 1px solid;
+  
+
+}
+td,tr{
+     border:  rgb(8, 8, 8) 1px solid;
+}
+.DosCols{
+    background-color: blueviolet;
+
+}
+.TresCols{
+    background-color: rgb(226, 43, 128);
+    
+}
+.CuatroCols{
+    background-color: rgb(46, 129, 150);
+    
+}
+li#ID{
+    font: verdana;
+  color: blueviolet;
+}
+
+li#ID b{
+    background-color:#f9eac3
+}
+p.comentario{
+border-style: dotted;
+border-color: hotpink;
+font: italic;
+text-align: center;
+}
+p + p{
+    text-decoration: underline;
+}
+li#ID> a{
+    text-decoration: underline;
+background-color: #bdf1ff;
+}

@@ -1,0 +1,19 @@
+#capa1{
+    background-color: lightskyblue;
+   
+}
+#capa1 a:hover {
+    background-color: rgb(211, 161, 115);
+  }
+#capa1 a{
+    text-decoration: underline;
+}
+#capa2{
+    background-color: rgb(55, 45, 114);
+}
+#capa1 a{
+    text-decoration: underline;
+}
+#capa2:hover a{
+    background-color: midnightblue;
+}
