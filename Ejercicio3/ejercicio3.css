@@ -1,0 +1,38 @@
+#primerP{
+    font-style: italic;
+    font-weight: bold;
+     text-indent: 0px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#secondP{
+    background-color: lightblue;
+    color: rebeccapurple;
+    font-family:  monospace;
+    font-size: 17px;
+}
+#tercerP{
+    text-transform: uppercase;
+    background-color: rgb(230, 193, 193);
+    color: rebeccapurple;
+    text-decoration: underline;
+}
+h3{
+    background-color: rgb(247, 177, 112);
+    color: white;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.clase{
+    font-style: italic;
+    color: slateblue;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#cuartoP{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(146, 132, 235);
+    color: snow;
+
+}
+
