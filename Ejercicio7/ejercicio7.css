@@ -1,0 +1,16 @@
+body{
+    background-image: url('madrid.jpg');
+
+  }
+  img{
+
+      height: 200px; 
+      width: 200px;
+  }
+  div{
+    height: 100px; 
+    width: 100px;
+    overflow: scroll;
+    box-shadow: 10px 10px 5px black;
+
+  }
